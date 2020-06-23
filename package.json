@@ -1,0 +1,12 @@
+{
+  "name": "trading",
+  "description": "IONDV. Trading app is demo app for Artificial Intelligence Bus module, based on data from the QUIK Software Package",
+  "version": "0.0.1",
+  "ionModulesDependencies": {},
+  "ionMetaDependencies": {},
+  "changeState": {
+    "major": true,
+    "minor": true,
+    "patch": true
+  }
+}
